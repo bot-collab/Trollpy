@@ -20,7 +20,7 @@ Para poder usarlo solo tienes que instalar las siguientes librerias:
 <li>numpy</li>
 <li>pygame</li>
 </ol
-<p>Instala las dependencias usando:</p>
+<p>Instala las dependencias usando  🐍:</p>
 
 <pre><code>pip install threaded
 </code></pre>
@@ -32,7 +32,7 @@ Para poder usarlo solo tienes que instalar las siguientes librerias:
 </code></pre>
 <pre><code>pip install customtkinter
 </code></pre>
-<p>Para dar uso a este escript de trolleo:</p>
+<p>Para dar uso a este escript de trolleo 🤑:</p>
 <ol>
 <li>Clona este repositorio: </li>
   <pre><code>git clone https://github.com/bot-collab/Trollpy
@@ -49,6 +49,6 @@ Para poder usarlo solo tienes que instalar las siguientes librerias:
   <img src="https://github.com/user-attachments/assets/3c66c1a0-3775-44aa-9e6a-b9496745dd43">
   <img src="https://github.com/user-attachments/assets/79d58ac4-5df9-4634-98b9-77e89c69be64">
   <img src="https://github.com/user-attachments/assets/1750dce3-42ff-4118-8e50-4c13dadf3398">
-  <img src="https://github.com/user-attachments/assets/"22359fe5-35d6-4965-8be1-7cea6ef58bb3">
+  <img src="https://github.com/user-attachments/assets/22359fe5-35d6-4965-8be1-7cea6ef58bb3">
   <img src="https://github.com/user-attachments/assets/66081ff1-0b86-4112-a62c-74a03896da21">
 </p>
